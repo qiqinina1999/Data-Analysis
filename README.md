@@ -5,19 +5,19 @@ This repository contains data analysis and numerical computation projects develo
 ## 1.Numerical Analysis
 • Least Squares Method
 • Numerical Interpolation
-   - Newton's Divided Difference
-   - Lagrange Interpolation
-   - Cubic Spline Interpolation
+(1) Newton's Divided Difference
+(2) Lagrange Interpolation
+(3) Cubic Spline Interpolation
 • Numerical Differentiation
-   - Euler's Method
-   - Runge-Kutta Method (RK4)
+(1) Euler's Method
+(2) Runge-Kutta Method (RK4)
 • Numerical Integration
-   - Simpson's 1/3 Rule
-   - Trapezoidal Rule
-   - Romberg Integration
+(1) Simpson's 1/3 Rule
+(2) Trapezoidal Rule
+(3) Romberg Integration
 • Linear Algebra
-   - Matrix Inversion
-   - Determinant Calculation
+(1) Matrix Inversion
+(2) Determinant Calculation
 
 ## 2.Wind Speed Analysis
 • Atmospheric wind data processing
