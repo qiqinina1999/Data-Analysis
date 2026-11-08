@@ -1,4 +1,8 @@
-# Atmospheric Divergence and Vertical Velocity Analysis
+"""
+Project: Atmospheric Divergence and Vertical Velocity Analysis
+Description:
+This project implements atmospheric wind speed and direction analysis using Python as part of academic coursework.
+"""
 
 import numpy as np
 import pandas as pd
