@@ -8,25 +8,25 @@ This repository contains data analysis and numerical computation projects develo
 
 • Numerical Interpolation
 
-   - Newton's Divided Difference
+   (1) Newton's Divided Difference
      
-   - Lagrange Interpolation
+   (2) Lagrange Interpolation
      
-   - Cubic Spline Interpolation
+   (3) Cubic Spline Interpolation
      
 • Numerical Differentiation
 
-   - Euler's Method
+   (1) Euler's Method
      
-   - Runge-Kutta Method (RK4)
+   (2) Runge-Kutta Method (RK4)
      
 • Numerical Integration
 
-   - Simpson's 1/3 Rule
+   (1) Simpson's 1/3 Rule
      
-   - Trapezoidal Rule
+   (2) Trapezoidal Rule
      
-   - Romberg Integration
+   (3) Romberg Integration
      
 • Linear Algebra
 
