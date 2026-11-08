@@ -5,6 +5,9 @@ import pandas as pd
 import math
 import matplotlib.pyplot as plt
 
+#上傳資料
+uploaded = files.upload()
+
 lev = 5
 lon = 49
 lat = 25
