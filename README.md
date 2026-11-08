@@ -6,6 +6,7 @@ This repository contains data analysis and numerical computation projects develo
 
 • Least Squares Method
 
+
 • Numerical Interpolation
 
    (1) Newton's Divided Difference
@@ -13,12 +14,14 @@ This repository contains data analysis and numerical computation projects develo
    (2) Lagrange Interpolation
      
    (3) Cubic Spline Interpolation
+
      
 • Numerical Differentiation
 
    (1) Euler's Method
      
    (2) Runge-Kutta Method (RK4)
+
      
 • Numerical Integration
 
@@ -27,12 +30,13 @@ This repository contains data analysis and numerical computation projects develo
    (2) Trapezoidal Rule
      
    (3) Romberg Integration
+
      
 • Linear Algebra
 
-   - Matrix Inversion
+   (1) Matrix Inversion
      
-   - Determinant Calculation
+   (2) Determinant Calculation
 
 
 ## 2.Wind Speed Analysis
