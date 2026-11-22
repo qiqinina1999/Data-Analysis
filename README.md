@@ -47,7 +47,7 @@ This repository contains data analysis and numerical computation projects develo
 
 • Spatial and temporal data analysis
 
-• Wind field visualizatio
+• Wind field visualization
 
 
 # Tools
