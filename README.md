@@ -52,7 +52,7 @@ This repository contains data analysis and numerical computation projects develo
 
 # Tools
 
-Python
+**Python**
 
 NumPy
 
